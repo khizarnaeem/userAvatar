@@ -47,3 +47,6 @@ or
 }
 ```
 You can make changes to directive according to your convinience and can also improve this repository. 
+
+<h1>CSS</h1>
+style.css file includes the css which i use to generate the style for avatar, you can change it according to your wish when using in your projects.
