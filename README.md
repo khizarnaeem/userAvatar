@@ -43,7 +43,7 @@ or
 ```json
 {
 	FirstName: "My",
-	LastName; "Name",
+	LastName: "Name",
 	Avatar: null or "http://link.to.img.jpg"
 }
 ```
