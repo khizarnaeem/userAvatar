@@ -5,7 +5,7 @@ userAvatar is an AngularJS based directive which can be used to generate avatar/
 
 <h1>Demo</h1>
 <p>
-<a "http://plnkr.co/edit/UHq23coTUSrwnMKq1Itv?p=info" target="_blank">Demo</a>
+<a href="http://plnkr.co/edit/UHq23coTUSrwnMKq1Itv?p=info" target="_blank">Demo</a>
 </p>
 <h1>Requirements</h1>
 <p>
