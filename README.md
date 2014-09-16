@@ -14,7 +14,7 @@ AngularJS verison 1.0.5+
 
 ## How to use
 
-Add a `<script>` to your `index.html`:
+1- Add a `<script>` to your `index.html`:
 
 ```html
 <script src="/path_to_js_file/useravatar.js"></script>
@@ -24,8 +24,9 @@ if you have already an angular app mofule defined in your project then themove f
 ```javascript
 var appModule = angular.module('useravatar', []);
 ```
+2- copy css from style.css into your css file or link to this file in your project.
 
-use directive in html like this
+3- use directive in html like this
 
 ```html
 <div class="useravatar" user="UserDetails"></div> 
