@@ -1,0 +1,26 @@
+{
+  "name": "enhanced-avatar",
+  "version": "0.0.1",
+  "description": "AngularJS directive to get generic user avatars based on their initials.",
+  "main": "enhancedavatar.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miqe/enhancedAvatar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miqe/enhancedAvatar/issues"
+  },
+  "homepage": "https://github.com/Miqe/enhancedAvatar#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  }
+}

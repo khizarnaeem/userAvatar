@@ -1,0 +1,22 @@
+{
+  "name": "enhanced-avatar",
+  "description": "AngularJS directive to get generic user avatars based on their initials.",
+  "main": "enhancedavatar.js",
+  "authors": [
+    "mike <michaelsahlu@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "avatar",
+    "angularjs",
+    "picture"
+  ],
+  "homepage": "https://github.com/Miqe/enhancedAvatar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
