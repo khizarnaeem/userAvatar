@@ -12,8 +12,11 @@ Requirements
 AngularJS verison 1.5.0+
 
 ## How to use
-
-1- Add a `<script>` to your `index.html`:
+1- installation 
+``` 
+bower install enhanced-avatar --save
+```
+2- Add a `<script>` to your `index.html`:
 
 ```html
 <script src="/path_to_js_file/enhancedavatar.js"></script>
@@ -24,12 +27,12 @@ if you have already an angular app mofule defined in your project then themove f
 ```javascript
 var appModule = angular.module('app', ['enhancedavatar']);
 ```
-2- copy css from style.css into your css file or link to this file in your project.
+3- copy css from style.css into your css file or link to this file in your project.
 
 ```html
 <link rel="stylesheet" href="/path_to_js_file/style.css" />
 ```
-3- use directive in html like this
+4- use directive in html like this
 
 ```html
 <div class="enhancedavatar" name="Mike S"></div> 
