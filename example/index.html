@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html ng-app="app">
+
+<head>
+  <link rel="stylesheet" href="../style.css">
+  <script src="https://code.angularjs.org/1.0.7/angular.min.js"></script>
+  <script src="../enhancedavatar.js"></script>
+  <script>
+    angular.module('app',['enhancedavatar']).controller('dataController', ['$scope',
+      function($scope) {
+
+      }
+    ]);
+  </script>
+</head>
+
+<body data-ng-controller="dataController">
+<h1>Enhanced Avatar examples</h1>
+<h3>AngularJS directive to get generic user avatars based on their initials.</h3>
+<ul>
+  <li><span class="enhancedavatar" name="Michael S" ></span> <h4> name:"Johnny Indian"</h4></li>
+  <li><span class="enhancedavatar" name="Abe Kebe" ></span> <h4> name:"Abe Kebe"</h4></li>
+  <li><span class="enhancedavatar" name="Size Test" width="100px" height="100px" img="http://i0.wp.com/batman-news.com/wp-content/uploads/2014/06/BAK_Sshot075.jpg?resize=200%2C200"></span> <h4> name:"Size Test"</h4></li>
+</ul>
+      
+
+</body>
+
+</html>
